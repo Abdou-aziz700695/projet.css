@@ -1,0 +1,73 @@
+.navigation{
+    display: inline;
+    margin-right: 7px;
+}
+.navigation:hover{
+    color: #17B7B7;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-inline: auto;
+}
+
+#section1{
+    width: 75%;
+    margin-inline: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.paragraphe{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    
+
+}
+
+.prawidh{
+    width: 50%;
+}
+
+.titre{
+    color: #17B7B7;
+    font-size: 40px;
+}
+
+#section2{
+    width: 75%;
+    margin-inline: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.carte{
+    border: solid;
+    width: 30%;
+    font-size: 25px;
+    text-align: left;
+    padding: 40px;
+    color: white;
+    border-radius: 10px;
+}
+
+.titrecarte{
+    text-align: left;
+    font-weight: bold;
+}
+
+#carte1{
+    background-color: #18D0B8;
+}
+#carte2{
+    background-color: #18D0B8;
+}
+#carte3{
+    background-color: #18D0B8;
+}
+#lescarte{
+    display: flex;
+    justify-content: space-between;
+}
